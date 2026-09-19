@@ -1,0 +1,83 @@
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD
+https://cr7v.short.gy/live25/spn/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
+http://46.151.196.223:14438/
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD
+http://46.151.196.223:14444/
+ 
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
+http://79.127.243.211:14514/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="US",CBS News 24/7
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="US",ABC
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACCDN" tvg-logo="" group-title="Other",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" group-title="Sports Networks",ESPN US HD
+https://edem-git-master-grisa92capestrugmailcoms-projects.vercel.app?code=M6WDCRQD52W8ND&user=ionut&channelId=19156
+
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" group-title="Sports Networks",SEC Network HD
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&h=270" group-title="Sports Networks",ESPNU HD
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&h=270" group-title="Sports Networks",ESPNU 2
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&h=270" group-title="Sports Networks",NFL Network HD
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC 2 Baltimore (WMAR)" tvg-logo="" group-title="2k.tstvs",ABC 2 Baltimore (WMAR)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/548921.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC 9 Kansas City (KMBC)" tvg-logo="" group-title="2k.tstvs",ABC 9 Kansas City (KMBC)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/548901.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 New York (WCBS)" tvg-logo="" group-title="2k.tstvs",CBS 2 New York (WCBS)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549522.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 Spokane (KREM)" tvg-logo="" group-title="2k.tstvs",CBS 2 Spokane (KREM)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CW 33 Las Vegas (KVCW)" tvg-logo="" group-title="2k.tstvs",CW 33 Las Vegas (KVCW)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551448.ts
+#EXTINF:-1 tvg-id="" tvg-name="CW 50 Detroit (WKBD)" tvg-logo="" group-title="2k.tstvs",CW 50 Detroit (WKBD)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551455.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX 11 Los Angeles (KTTV)" tvg-logo="" group-title="2k.tstvs",FOX 11 Los Angeles (KTTV)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549875.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX 5 New York (WNYW)" tvg-logo="" group-title="2k.tstvs",FOX 5 New York (WNYW)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549764.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY 62 Kansas City (KSMO)" tvg-logo="" group-title="2k.tstvs",MY 62 Kansas City (KSMO)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551395.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY 9 New York" tvg-logo="" group-title="2k.tstvs",MY 9 New York
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551407.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 Detroit (WDIV)" tvg-logo="" group-title="2k.tstvs",NBC 4 Detroit (WDIV)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/550296.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 Los Angeles (KNBC)" tvg-logo="" group-title="2k.tstvs",NBC 4 Los Angeles (KNBC)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/550382.ts
+
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png" group-title="Fox",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fox_Sports_2_logo.svg/512px-Fox_Sports_2_logo.svg.png" group-title="Fox",Fox Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ACC_Network_logo.svg/512px-ACC_Network_logo.svg.png" group-title="College",ACC Network
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Big_Ten_Network_logo.svg/512px-Big_Ten_Network_logo.svg.png" group-title="College",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png" group-title="College",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
