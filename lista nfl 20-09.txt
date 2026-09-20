@@ -1,0 +1,361 @@
+#EXTM3U
+
+# ============================================
+# CANAIS | ESPN (BRASIL)
+# ============================================
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN 4K" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="Canais | ESPN",ESPN 4K
+http://egecalu.online/live/861970655/687908312/2f771a35-ec05-49c1-ae68-b83dbdc9a85d.ts
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD - Opção 1
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://i.ibb.co/Q8VHw31/FHD.png" group-title="Canais | ESPN",ESPN FHD - Opção 2
+http://egecalu.online/live/861970655/687908312/ebd04454-5bca-490e-8f3e-89b4aa83ab2c.ts
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN FHD [H265]" tvg-logo="https://i.ibb.co/MMg79fb/H265.png" group-title="Canais | ESPN",ESPN FHD [H265]
+http://egecalu.online/live/861970655/687908312/fdd64e0e-66e2-4395-8cca-9fe1b856d108.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD - Opção 1
+https://cr7v.short.gy/live25/spn/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN HD - Opção 2
+http://asxc.pro:80/live/887429/DNFgcu/71913.ts
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/M5g7Nwt/HD.png" group-title="Canais | ESPN",ESPN HD - Opção 3
+http://egecalu.online/live/861970655/687908312/abf6c67c-401c-44ff-be52-d085c5411fb3.ts
+
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://i.ibb.co/4g5WTdV/SD.png" group-title="Canais | ESPN",ESPN SD
+http://egecalu.online/live/861970655/687908312/b7095e62-ad13-4d8c-8563-557d83db7751.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="https://i.ibb.co/dDtC7Db/FHD.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://egecalu.online/live/861970655/687908312/d32df6bd-8223-42bf-a4da-96661975df29.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD - Opção 1
+http://46.151.196.223:14438/
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 2 HD - Opção 2
+http://asxc.pro:80/live/887429/DNFgcu/71922.ts
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.ibb.co/TWDNq4Z/HD.png" group-title="Canais | ESPN",ESPN 2 HD - Opção 3
+http://egecalu.online/live/861970655/687908312/cf303ed2-1030-45bc-926a-db4daf8bb8da.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD [H265]" tvg-logo="https://i.ibb.co/fYd5FD1/H265.png" group-title="Canais | ESPN",ESPN 2 HD [H265]
+http://egecalu.online/live/861970655/687908312/e2c2fdc0-cb4f-4570-901e-fb8eb964acbe.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 2 ALT
+https://megaflix.mgfiles.lat/cadf8e414c69e94d452c511a9ee0870b/file.m3u8
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.ibb.co/jJDMCKk/SD.png" group-title="Canais | ESPN",ESPN 2 SD
+http://egecalu.online/live/861970655/687908312/36a38dc2-efc8-4d44-afca-bb95a9cad7f6.ts
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://i.ibb.co/Hxf72h5/FHD.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://egecalu.online/live/861970655/687908312/54b67647-2c8e-474c-aa6f-5a731192005d.ts
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD [H265]" tvg-logo="https://i.ibb.co/PFLKWQm/H265.png" group-title="Canais | ESPN",ESPN 3 FHD [H265]
+http://egecalu.online/live/861970655/687908312/d4c6c6a2-c52b-426b-9696-2edf60b318a1.ts
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD - Opção 1
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 3 HD - Opção 2
+http://oruk.online:80/live/861970655/687908312/2302896.ts
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.ibb.co/m0hxCdd/HD.png" group-title="Canais | ESPN",ESPN 3 HD - Opção 3
+http://egecalu.online/live/861970655/687908312/7ed95530-bbc0-4f67-a221-d0d662ea9e53.ts
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 3 ALT
+http://asxc.pro:80/live/887429/DNFgcu/71909.ts
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 SD" tvg-logo="https://i.ibb.co/vvdFCMn/SD.png" group-title="Canais | ESPN",ESPN 3 SD
+http://egecalu.online/live/861970655/687908312/b7ab1223-66bd-49c4-8d8d-c11b3002b4e2.ts
+
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2B4K.png" group-title="Canais | ESPN",ESPN 4 4K
+http://egecalu.online/live/861970655/687908312/7bb19cc5-3e0d-4961-8945-fe055fe469cf.ts
+
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.ibb.co/KFc7FBL/FHD.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://egecalu.online/live/861970655/687908312/68210f38-fbdb-48bd-a545-6dd809831123.ts
+
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 FHD [H265]" tvg-logo="https://i.ibb.co/P1w38pL/H265.png" group-title="Canais | ESPN",ESPN 4 FHD [H265]
+http://egecalu.online/live/861970655/687908312/e2c186bd-ec5f-46eb-90f5-70c0aa27bfae.ts
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD - Opção 1
+http://79.127.243.211:14514/
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 4 HD - Opção 2
+http://asxc.pro:80/live/887429/DNFgcu/71960.ts
+
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/N2zXfKK/HD.png" group-title="Canais | ESPN",ESPN 4 HD - Opção 3
+http://egecalu.online/live/861970655/687908312/1409202b-8352-4999-96da-6cbbdb1e02b2.ts
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 4 ALT
+http://45.162.64.114:80/ESPN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="https://i.ibb.co/C6W2vB2/SD.png" group-title="Canais | ESPN",ESPN 4 SD
+http://egecalu.online/live/861970655/687908312/04d788e3-bba4-4598-96f1-f06086943ff9.ts
+
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://i.ibb.co/k6SjmccW/ESPN-5-fhd.png" group-title="Canais | ESPN",ESPN 5 FHD
+http://egecalu.online/live/861970655/687908312/c6d07319-444e-44ab-895c-317bfa92838a.ts
+
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD [H265]" tvg-logo="https://i.ibb.co/cS2wVd2L/Logo-Nova.png" group-title="Canais | ESPN",ESPN 5 FHD [H265]
+http://egecalu.online/live/861970655/687908312/9ed62ddc-3332-476a-8b59-00ae2da99c0e.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD - Opção 1
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 5 HD - Opção 2
+http://asxc.pro:80/live/887429/DNFgcu/71955.ts
+
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.ibb.co/wFXc7rF6/ESPN-5-hd.png" group-title="Canais | ESPN",ESPN 5 HD - Opção 3
+http://egecalu.online/live/861970655/687908312/db3e6fe0-b56a-40f2-afc3-cc9340cfaf91.ts
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 5 ALT
+https://megaflix.mgfiles.lat/4e42f95b4cc1a8b1316f7e4c52989657/file.m3u8
+
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://i.ibb.co/VWS3MZp1/ESPN-5-sd.png" group-title="Canais | ESPN",ESPN 5 SD
+http://egecalu.online/live/861970655/687908312/13fb6d7b-cca9-4b98-87af-17bb1c34f641.ts
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 FHD" tvg-logo="https://i.ibb.co/TxC7ppZM/ESPN-6-fhd.png" group-title="Canais | ESPN",ESPN 6 FHD
+http://egecalu.online/live/861970655/687908312/43fe2bef-660e-423c-b87e-ba3174cbfa31.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 6 HD - Opção 1
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN 6 HD" tvg-logo="https://i.ibb.co/5gxQhqyT/ESPN-6-hd.png" group-title="Canais | ESPN",ESPN 6 HD - Opção 2
+http://egecalu.online/live/861970655/687908312/6bdab961-ec58-44ca-9fa5-2c4ef99dbb36.ts
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 6 ALT - Opção 1
+https://megaflix.mgfiles.lat/9a37513b3ad67a23f63482a05b7c4c14/file.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="Canais | ESPN",ESPN 6 ALT - Opção 2
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+
+# ============================================
+# CANAIS | SPORTV
+# ============================================
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://i.ibb.co/1q5q5Pd/FHD.png" group-title="Canais | SporTV",SporTV FHD
+http://egecalu.online/live/861970655/687908312/2d07369d-e1e7-45ea-a60d-6a4e59dd2da7.ts
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD [H265]" tvg-logo="https://i.ibb.co/gJTLw1H/H265.png" group-title="Canais | SporTV",SporTV FHD [H265]
+http://egecalu.online/live/861970655/687908312/7850abfc-6857-4bff-9a24-fe789d8b7c35.ts
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV HD - Opção 1
+http://asxc.pro:80/live/887429/DNFgcu/72332.ts
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://i.ibb.co/WpmxRdK/HD.png" group-title="Canais | SporTV",SporTV HD - Opção 2
+http://egecalu.online/live/861970655/687908312/ab26657d-5cc7-40ad-a55b-1cddcf56a201.ts
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV ALT
+https://cr7v.short.gy/ManoTVfree/SPOREXTRA/index.m3u8
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://i.ibb.co/WGTBkX0/SD.png" group-title="Canais | SporTV",SporTV SD
+http://egecalu.online/live/861970655/687908312/9019fc76-a520-4ceb-a5ec-8acbf910e503.ts
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://i.ibb.co/6tMGMTR/FHD.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://egecalu.online/live/861970655/687908312/9784a192-6047-4add-80ed-bbe09c18ab30.ts
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://i.ibb.co/Hn9hrw5/H265.png" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://egecalu.online/live/861970655/687908312/b8164f24-ca1f-45db-a3bd-f9a3ba996c44.ts
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV 2 HD - Opção 1
+http://asxc.pro:80/live/887429/DNFgcu/131176.ts
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://i.ibb.co/sRB0LXw/HD.png" group-title="Canais | SporTV",SporTV 2 HD - Opção 2
+http://egecalu.online/live/861970655/687908312/5c7e9cae-8ba1-423e-9d5b-8f9085b1a4be.ts
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV 2 ALT
+http://oruk.online:80/live/861970655/687908312/18238.ts
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://i.ibb.co/Gn6YGzP/SD.png" group-title="Canais | SporTV",SporTV 2 SD
+http://egecalu.online/live/861970655/687908312/eee7b3dc-668d-4ae8-9ce1-19e0ae3847de.ts
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://i.ibb.co/2gsNmjX/FHD.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://egecalu.online/live/861970655/687908312/3c496db3-9bbf-49d4-bce8-d1834527d641.ts
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV 3 HD - Opção 1
+https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://i.ibb.co/TM93gTH/HD.png" group-title="Canais | SporTV",SporTV 3 HD - Opção 2
+http://egecalu.online/live/861970655/687908312/d56a3584-d68a-40d6-a949-150257507592.ts
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 ALT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6B8xI6yIIbHsw_r3Ntr-US2ZCZ7s_a1PyDMTyXUrK9otZ_VAiLS5-cf6TIEc7ZZo-7az6AZV6YnBTHUeO6TdCC2T4RpTfClfzQkMdQ6wMoIE1j1Ojab8x6vZnjPJTKFF9x4-MQzjejnPYgaFX42C66j_FtM6whoOtQv_GDYmj5sd8JemsBrFHVuVWROs/s1600/sportv.webp" group-title="Canais | SporTV",SporTV 3 ALT
+http://asxc.pro:80/live/887429/DNFgcu/131113.ts
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://i.ibb.co/jTZZKbK/SD.png" group-title="Canais | SporTV",SporTV 3 SD
+http://egecalu.online/live/861970655/687908312/d8b5d9e8-ff28-4770-af18-a4b5277092b3.ts
+
+
+# ============================================
+# CANAIS | TNT
+# ============================================
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Canais | TNT",TNT FHD
+http://egecalu.online/live/861970655/687908312/4ff4fcb4-cb9a-4330-bc7a-858184ca595b.ts
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD [H265]" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Canais | TNT",TNT FHD [H265]
+http://egecalu.online/live/861970655/687908312/040f4a11-d9f4-43ea-98aa-6acf0f6e0236.ts
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Canais | TNT",TNT HD
+http://egecalu.online/live/861970655/687908312/29b4bbe7-ac17-43d2-8a47-40ef1b846afa.ts
+
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://lh3.googleusercontent.com/-Rz4qPsCBF40/YBxxM1_AcBI/AAAAAAAAJ3c/3k9NkNQF54sX5bDiTtVDhxWgOz7FwioigCLcBGAsYHQ/TNT.png" group-title="Canais | TNT",TNT SD
+http://egecalu.online/live/861970655/687908312/93c9a9dd-f619-4be2-9855-a269d8479eb0.ts
+
+
+# ============================================
+# CANAIS | US SPORTS
+# ============================================
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" group-title="Canais | US Sports",ESPN US HD - Opção 1
+https://edem-git-master-grisa92capestrugmailcoms-projects.vercel.app?code=M6WDCRQD52W8ND&user=ionut&channelId=19156
+
+#EXTINF:-1 tvg-chno="70" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Canais | US Sports",ESPN US HD - Opção 2
+http://stream.bottledesk.net/6500/index.m3u8
+
+#EXTINF:-1 tvg-chno="76" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Canais | US Sports",ESPN 2 US HD - Opção 1
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=45
+https://xameleon.phantemlis.top/two/secure/ca6015766239b8d8fdd5b27095d45f08/1789227033/premium45/index.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Canais | US Sports",ESPN 2 US HD - Opção 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+2&code=us&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODkyMzA2MTkxMjQ6Y2RubGl2ZXR2LnR2OjEyOTgwMTQ4NTY3ZDhmOWIuYTc0YWI3OGIzYWY1ODRlMTUwOWZkZGY1ZTk0OGU3YWIzMmM1MmY4MWY3
+
+#EXTINF:-1 tvg-chno="73" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Canais | US Sports",ESPN News US - Opção 1
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNNews.us" group-title="Canais | US Sports",ESPN News US - Opção 2
+http://85.237.89.160:9590/usa-s/ESPN-NEWS-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&h=270" group-title="Canais | US Sports",ESPNU HD - Opção 1
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&h=270" group-title="Canais | US Sports",ESPNU HD - Opção 2
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Canais | US Sports",ESPNU HD - Opção 3
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=316
+https://xameleon.phantemlis.top/three/secure/9c4c15041490fca2483b3d66e9e726aa/1789227025/premium316/index.m3u8
+
+#EXTINF:-1 tvg-chno="75" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U (Alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Canais | US Sports",ESPNU HD - Opção 4
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+U&code=us&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5a2/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEyOjE3ODkyMzA2MjI1MDc6Y2RubGl2ZXR2LnR2Ojk1NTFhNDdmNjgyYjk3MzcuMjhjMWU1MDczNDJkZmJhYTU1ZGFjNjhkY2M2ZjhiYzhkNGVjZDUxZmI4YTg0OWRlMjg5ZmVjMmE3OGVjNThjYg
+
+#EXTINF:-1 tvg-chno="71" tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Canais | US Sports",ESPN Deportes - Opção 1
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/premiumtv/daddy3.php?id=375
+https://xameleon.phantemlis.top/three/secure/cc3e5aba75741147c480555bd18df42a/1789227018/premium375/index.m3u8
+
+#EXTINF:-1 tvg-chno="72" tvg-id="ESPN.Deportes.HD.us2" tvg-name="ESPN Deportes (Alt)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Canais | US Sports",ESPN Deportes - Opção 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN+Deportes&code=us&user=cdnlivetv&plan=free
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb34c/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM3RjOjE3ODkyMzA2MTY0NjQ6Y2RubGl2ZXR2LnR2OjIxMDllNDNlMTVjZTE5MDEuMTc2OWUyZGI1MmU5OWI5N2IxZmFhZGNiODBmM2U3NGFhZTYwNjA1ZmRmMWU5MGFlNTg4OWRjMDMyMWQ4OWJlOA
+
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" group-title="Canais | US Sports",SEC Network HD - Opção 1
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png" group-title="Canais | US Sports",SEC Network HD - Opção 2
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png" group-title="Canais | US Sports",Fox Sports 1 - Opção 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="Canais | US Sports",Fox Sports 1 - Opção 2
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fox_Sports_2_logo.svg/512px-Fox_Sports_2_logo.svg.png" group-title="Canais | US Sports",Fox Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&h=270" group-title="Canais | US Sports",NFL Network HD
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/ACC_Network_logo.svg/512px-ACC_Network_logo.svg.png" group-title="Canais | US Sports",ACC Network - Opção 1
+http://23.239.31.26:8989/accnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" group-title="Canais | US Sports",ACC Network - Opção 2
+http://23.237.104.106:8080/USA_ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Big_Ten_Network_logo.svg/512px-Big_Ten_Network_logo.svg.png" group-title="Canais | US Sports",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACCDN" tvg-logo="" group-title="Canais | US Sports",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+
+# ============================================
+# CANAIS | US LOCALS & GENERAL
+# ============================================
+
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Canais | US Locals",ABC US - Opção 1 (East)
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="Canais | US Locals",ABC US - Opção 2
+http://41.205.93.154/ABC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@KATC" group-title="Canais | US Locals",ABC - KATC (Lafayette, LA)
+http://23.237.104.106:8080/USA_KATC/index.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us@WTNH" group-title="Canais | US Locals",ABC - WTNH (New Haven, CT)
+http://23.237.104.106:8080/USA_WTNH/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC 2 Baltimore (WMAR)" tvg-logo="" group-title="Canais | US Locals",ABC 2 Baltimore (WMAR)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/548921.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC 9 Kansas City (KMBC)" tvg-logo="" group-title="Canais | US Locals",ABC 9 Kansas City (KMBC)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/548901.ts
+
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="Canais | US Locals",CBS US - Principal (East)
+http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us@KMOV" group-title="Canais | US Locals",CBS - KMOV (St. Louis, MO)
+http://23.237.104.106:8080/USA_KMOV/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us@KIRO" group-title="Canais | US Locals",CBS - KIRO (Seattle, WA)
+http://23.237.104.106:8080/USA_KIRO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 New York (WCBS)" tvg-logo="" group-title="Canais | US Locals",CBS 2 New York (WCBS)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549522.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 Spokane (KREM)" tvg-logo="" group-title="Canais | US Locals",CBS 2 Spokane (KREM)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549444.ts
+
+#EXTINF:-1 tvg-id="NBC.us@East" group-title="Canais | US Locals",NBC US - Principal (East)
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us@KNTV" group-title="Canais | US Locals",NBC - KNTV (Bay Area, CA)
+http://23.237.104.106:8080/USA_KNTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us@WBTS" group-title="Canais | US Locals",NBC - WBTS (Boston, MA)
+http://23.237.104.106:8080/USA_WBTS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 Detroit (WDIV)" tvg-logo="" group-title="Canais | US Locals",NBC 4 Detroit (WDIV)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/550296.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 Los Angeles (KNBC)" tvg-logo="" group-title="Canais | US Locals",NBC 4 Los Angeles (KNBC)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/550382.ts
+
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="Canais | US Locals",FOX US - Principal (East)
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us@KDFW" group-title="Canais | US Locals",FOX - KDFW (Dallas-Fort Worth, TX)
+http://23.237.104.106:8080/USA_KDFW/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.us@WNYW" group-title="Canais | US Locals",FOX - WNYW (New York, NY)
+http://23.237.104.106:8080/USA_WNYW/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 11 Los Angeles (KTTV)" tvg-logo="" group-title="Canais | US Locals",FOX 11 Los Angeles (KTTV)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549875.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 5 New York (WNYW)" tvg-logo="" group-title="Canais | US Locals",FOX 5 New York (WNYW)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/549764.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CW 33 Las Vegas (KVCW)" tvg-logo="" group-title="Canais | US Locals",CW 33 Las Vegas (KVCW)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551448.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CW 50 Detroit (WKBD)" tvg-logo="" group-title="Canais | US Locals",CW 50 Detroit (WKBD)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551455.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MY 62 Kansas City (KSMO)" tvg-logo="" group-title="Canais | US Locals",MY 62 Kansas City (KSMO)
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551395.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MY 9 New York" tvg-logo="" group-title="Canais | US Locals",MY 9 New York
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551407.ts
