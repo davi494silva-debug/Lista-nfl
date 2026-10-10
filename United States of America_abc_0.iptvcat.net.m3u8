@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC
+http://41.205.93.154/ABC/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC (WPLG) (480p)
+https://tx1.nexgen.bz/ABC/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 San Diego CA (KGTV) (720p)
+https://livetv-fa.tubi.video/kgtv2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 12 Milwaukee WI (WISN) (720p)
+https://livetv-fa.tubi.video/wisn/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 13 Las Vegas NV (KTNV) (720p)
+https://livetv-fa.tubi.video/ktnv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 15 Phoenix AZ (KNXV) (720p)
+https://livetv-fa.tubi.video/knxv2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 16 Jackson MS (WAPT) (720p)
+https://livetv-fa.tubi.video/wapt/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://lnc-wsb2.tubi.video/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 2 Atlanta GA (WSB-TV) (720p)
+https://livetv-fa.tubi.video/wsb2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 2 Baltimore MD (WMAR) (720p)
+https://livetv-fa.tubi.video/wmar/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 2 Baton Rouge LA (WBRZ) (720p) [Not 24/7]
+https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 22 Savannah GA (WJCL) (720p)
+https://livetv-fa.tubi.video/wjcl/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 23 Bakersfield CA (KERO) (720p)
+https://livetv-fa.tubi.video/kero/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 25 Waco TX (KXXV) (720p)
+https://livetv-fa.tubi.video/kxxv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 25 West Palm Beach FL (WPBF) (720p)
+https://livetv-fa.tubi.video/wpbf/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 27 Tallahassee FL (WTXL) (720p)
+https://livetv-fa.tubi.video/wtxl/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 28 Tampa Bay FL (WFTS) (720p)
+https://livetv-fa.tubi.video/wfts2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 3 Lafayette LA (KATC) (720p)
+https://livetv-fa.tubi.video/katc/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 4 Pittsburg PA (WTAE) (720p)
+https://livetv-fa.tubi.video/wtae/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 40/29 Fort Smith AR (KHBS) (720p)
+https://livetv-fa.tubi.video/khbs/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 5
+https://stream.krgv.com/krgv-english/krgv-english.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 5
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 5 Boston MA (WCVB) (720p)
+https://livetv-fa.tubi.video/wcvb/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 5 Cleveland OH (WEWS) (720p)
+https://livetv-fa.tubi.video/wews2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 5 Oklahoma City OK (KOCO) (720p)
+https://livetv-fa.tubi.video/koco/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 6 Boise ID (KIVI) (720p)
+https://livetv-fa.tubi.video/kivi/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 6 Indianapolis IN (WRTV) (720p)
+https://livetv-fa.tubi.video/wrtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Albuquerque NM (KOAT) (720p)
+https://livetv-fa.tubi.video/koat/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Buffalo NY (WKBW) (720p)
+https://livetv-fa.tubi.video/wkbw/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Denver CO (KMGH) (720p)
+https://livetv-fa.tubi.video/kmgh2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Detroit MI (WXYZ) (720p)
+https://livetv-fa.tubi.video/wxyz2/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Omaha NE (KETV) (720p)
+https://livetv-fa.tubi.video/ketv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 8 Portland ME (WMTW) (720p)
+https://livetv-fa.tubi.video/wmtw/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Charlotte NC (WSOC) (720p)
+https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Cincinnati OH (WCPO) (720p)
+https://livetv-fa.tubi.video/wcpo/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Kansas City MO (KMBC-TV) (720p)
+https://livetv-fa.tubi.video/kmbc/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Manchester NH (WMUR-TV) (720p)
+https://livetv-fa.tubi.video/wmur/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Orlando FL (WFTV) (720p)
+https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Orlando FL (WFTV) (720p)
+https://lnc-wftv.tubi.video/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Orlando FL (WFTV) (720p) [Geo-blocked]
+https://livetv-fa.tubi.video/wftv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 9 Tucson AZ (KGUN) (720p)
+https://livetv-fa.tubi.video/kgun/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Chicago WLS-DT1
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live (720p)
+https://apollo.production-public.tubi.io/live/ac-abc-news.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 1 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 2 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 3 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 4 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 5 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 6 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 7 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",ABC News Live 9 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC WWAY 3
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",KABC-DT1 (360p)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KABC-TV-Logo-2021.png/512px-KABC-TV-Logo-2021.png" group-title="General",KABC-DT1 (720p)
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WABC-DT1 (360p)
+https://tvpass.org/live/WABCDT1/sd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Undefined",WABC-DT1 (720p)
+https://tvpass.org/live/WABCDT1/hd?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WABC-DT1 (720p)
+https://moveonjoy-scan.vercel.app/api/scan?url=https://fl25.moveonjoy.com/ABC_EAST/index.m3u8&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",WTVQ ABC 36 News (Lexington KY) (720p)
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8?checkedby:iptvcat.net
