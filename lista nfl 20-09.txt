@@ -333,20 +333,8 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/550296.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC 4 Los Angeles (KNBC)" tvg-logo="" group-title="Canais | US Locals",NBC 4 Los Angeles (KNBC)
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/550382.ts
 
-#EXTINF:-1 tvg-id="Fox.us@East" group-title="Canais | US Locals",FOX US - Principal (East)
-http://stream.cammonitorplus.net/1752/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us@KDFW" group-title="Canais | US Locals",FOX - KDFW (Dallas-Fort Worth, TX)
-http://23.237.104.106:8080/USA_KDFW/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.us@WNYW" group-title="Canais | US Locals",FOX - WNYW (New York, NY)
-http://23.237.104.106:8080/USA_WNYW/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX 11 Los Angeles (KTTV)" tvg-logo="" group-title="Canais | US Locals",FOX 11 Los Angeles (KTTV)
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/549875.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX 5 New York (WNYW)" tvg-logo="" group-title="Canais | US Locals",FOX 5 New York (WNYW)
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/549764.ts
+#EXTINF:-1 tvg-id="Fox.us@Miami" tvg-name="FOX Miami" group-title="Canais | US Locals",FOX Miami
+http://190.197.41.183/Fox/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CW 33 Las Vegas (KVCW)" tvg-logo="" group-title="Canais | US Locals",CW 33 Las Vegas (KVCW)
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/551448.ts
